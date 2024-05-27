@@ -118,7 +118,7 @@
     .card {
       span {
         svg {
-          display: none !important;
+    //display: none !important;
         }
       }
     }
@@ -128,6 +128,19 @@
     }
   }
 }
+@media (max-width:580px) and (min-width:769px)  {
+  .info { 
+    .card {
+           span {
+           svg {
+                     margin-left: 3vw;
+    
+           }
+      }
+    }
+   }
+}
+             
 @media(max-width:761px){
   .info{
     display: flex;
