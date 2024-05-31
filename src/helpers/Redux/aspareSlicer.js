@@ -7,7 +7,7 @@ const initialState = {
   isAuthenticated: false,
   error: false,
   errorMessage: "",
-  mainURL: "https://6xlhc62p-7186.euw.devtunnels.ms",
+  mainURL: "https://autosparewebapi-5tqxrangwq-uc.a.run.app",
   filter: {}
   // filter: {
   //   MinimumPrice: 0,
